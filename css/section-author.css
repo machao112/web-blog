@@ -1,0 +1,32 @@
+section.author {
+	padding: 100px 0;
+	background-color: #f1f1f1;
+	text-align: center;
+}
+section.author .item {
+	margin-top: 60px;
+}
+section.author img {
+	width: 100%;
+}
+
+section.author h3 {
+	text-align: center;
+	display: inline-block;
+	border-bottom: 5px solid #d5d5d5;
+	padding-bottom: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+section.author p {
+	margin-top: 20px;
+}
+section.author .content p {
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+section.author .content ul.pink {
+	justify-content: space-around;
+}

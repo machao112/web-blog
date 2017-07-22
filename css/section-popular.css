@@ -1,0 +1,61 @@
+.popular-post  {
+
+}
+
+.popular-post img {
+	/*width: 100%;*/
+}
+
+.popular-post h5 {
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.popular-post ul.pink {
+	display: block;
+}
+
+.popular-post ul.pink li {
+	padding: 0;
+}
+
+.popular-post .ads {
+	text-align: center;
+	position: relative;
+}
+.popular-post .ads img {
+	width: 100%;
+}
+.popular-post .ft-title {
+	
+	background-color: #fff;
+	width: 320px;
+	position: absolute;
+	left: calc(50% - 163px);
+	bottom: -50px;
+	padding: 10px;
+}
+
+.popular-post .ft-title p {
+	text-align: center;
+	font-weight: normal;
+	margin-top: 10px;
+	text-transform: none;
+}
+
+.popular-post .ads ul.pink {
+	display: flex;
+	justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+footer {
+	padding: 100px 0;
+	background-color: #242424;
+	color: #fff;
+}
+
+footer h3 {
+	text-transform: uppercase;
+	padding-bottom: 30px;
+	border-bottom: 5px solid #d5d5d5;
+	margin-bottom: 50px;
+}
+footer ul.contacts {
+	margin-top: 30px;
+}
+footer ul.contacts li{
+	display: flex;
+}
+
+footer ul.contacts li span {
+	font-size: 25px;
+	color: #ce0393;
+	margin-right: 20px;
+}
+
+footer ul.pink {
+	display: block;
+}
+
+footer .media ul.pink li {
+	padding: 0;
+	margin: 10px 0;
+}
+
+footer form input {
+	width: 100%;
+	border-radius: 30px;
+	border: none;
+	padding: 10px;
+
+}
+footer form input:focus {
+	outline: none;
+}
+footer form button {
+	display: block;
+	border-radius: 30px;
+	border: none;
+	padding: 10px 40px;
+	margin-top: 30px;
+	background-color: #ce0393;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #fff;
+}
+
+footer ul.category {}
+
+footer ul.category li a {
+	color: #fff;
+	text-decoration: none;
+}
+footer ul.category li {
+	margin-bottom:  20px;
+}
